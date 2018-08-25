@@ -1,0 +1,25 @@
+,English,French,Spanis,Chinese
+Mute,Mute,Muet,Mudo,静音
+Auto,Auto,Auto,Auto,自动
+Fast,Fast,Vite,Rápid,快速
+Log,Log,Journal,Dia,回放
+Items,Items,Articles,Artículo,物品
+Hide,Hide,Cacher,Esconder,隐藏
+Next,Next,Prochain,Siguiente,继续
+Resume,Resume,Résumer,Continuar,继续
+Save,Save Game,Sauvegarder,Salvar,保存
+ToMenu,To Menu, Aller au menu, Al Menú,回到菜单
+Quit,Quit,Dejar,Quitter,退出
+Sound,Sound,Sonner,Sonar,音效
+MasterVolume,Master Volume,Master Volume,Volumen Principal,全部音量
+VoiceVolume,Voice Volume,Volume Voix,Volumen de Voz,语音音量
+MusicVolume,Music Volume,Volume de la Musique,Volumen de la música,背景音乐
+EffectsVolume,Effects Volume,Volume des Effets,Volumen de los Efectos,效果音量
+Text,Text,Texte,Texto,文字
+TextSpeed,Text Speed,Vitesse de Texte,La Velocidad de Texto,文字速度
+AutosizeText,Autosize Text,Texte Autosize,Texto de Tamaño Automático,自动缩放
+TextSize,Text Size,Taille du Texte,Tamaño del Texto,文字大小
+Font,Font,Font,Fuente,字体
+Language,Language,Langue,Idioma,语言
+AutosizeHelp,"If checked text will automatically be sized. If unchecked choose your own text size below.","Si elle est cochée le texte sera automatiquement redimensionnée. Si elle est désactivée, choisissez votre propre taille du texte ci-dessous.","Si se activa automáticamente se cambiará el tamaño de texto. Si no se controla elegir su propio tamaño del texto a continuación.","如果选中则文字会被自动缩放。如未选中请在下方自行设置大小。"
+Claire,Claire,Mme. Claire,Ms. Claire,查瑞
