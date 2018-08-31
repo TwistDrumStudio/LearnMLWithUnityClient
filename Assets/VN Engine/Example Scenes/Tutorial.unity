@@ -3093,8 +3093,7 @@ MonoBehaviour:
   fetch_localized_stat_value: 0
   dialogue_from: 0
   localized_key: 
-  text: "Hello! \u4E2D\u6587\u6D4B\u8BD5Thanks for trying out my <color=red><b><i>Visual
-    Novel Engine for Unity</i></b></color>"
+  text: Hello! Thanks for trying out my <color=red><b><i>Visual Novel Engine for Unity</i></b></color>
   talking_beeps: {fileID: 8300000, guid: f23e41a53f339964bb4cee2c4be19144, type: 3}
   darken_all_other_characters: 1
   bring_speaker_to_front: 1
